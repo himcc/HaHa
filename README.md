@@ -18,3 +18,4 @@ ssh -p 2222 root@localhost (password:root)
 </pre>
 参考：[Hadoop Pseudo-Distributed operation](http://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html#Pseudo-Distributed_Operation)
 
+启动是靠supervisord 的.conf配置。这么多年居然忘了
